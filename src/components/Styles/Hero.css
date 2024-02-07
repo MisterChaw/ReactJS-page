@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+.carouselImages{
+    height: 450px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 91px;
+}
+.title{
+    font-size: 30px;
+}
+.text{
+    font-size: 25px;
+}

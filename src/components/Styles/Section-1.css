@@ -1,0 +1,19 @@
+.section1{
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+    background: rgb(237, 237, 237);
+}
+.cardBox{
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.266);
+}
+.images{
+    border: 1px solid white;
+    height: 200px;
+}
+.cardBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
