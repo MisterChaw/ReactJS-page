@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Section1 from './components/Section-1';
-import Cards from './components/Cards'
+import Section2 from './components/Section2'
 import Footer from './components/Footer';
 
 
@@ -13,7 +13,7 @@ const App = ()=>{
             <Navbar/>
             <Hero/>
             <Section1/>
-            <Cards/>
+            <Section2/>
             <Footer/>
         </>
     )

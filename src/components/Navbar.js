@@ -15,10 +15,10 @@ function Navb() {
                   <span className='logoName'>Yummy Tummy</span>
                 </Navbar.Brand>
                 <Nav className="ms-auto">
-                    <Nav.Link href="#" className='active'>Foods</Nav.Link>
-                    <Nav.Link href="#" className='navLink'>Desserts</Nav.Link>
-                    <Nav.Link href="#" className='navLink'>Beverage</Nav.Link>
-                    <Nav.Link href="#" className='navLink'>Top picks</Nav.Link>
+                    <Nav.Link href="#" className='active'>FOODS</Nav.Link>
+                    <Nav.Link href="#" className='navLink'>DESSERTS</Nav.Link>
+                    <Nav.Link href="#" className='navLink'>BEVERAGE</Nav.Link>
+                    <Nav.Link href="#" className='navLink'>OTHERS</Nav.Link>
                 </Nav>
                 </Container>
             </Navbar>

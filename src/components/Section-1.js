@@ -15,7 +15,7 @@ function Section1() {
             <Card.Body className='cardBody'>
                 <Card.Title><h3>Ice cream n' Cake</h3></Card.Title>
                 <Card.Text>
-                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit dolor sit amet...</p>
                 </Card.Text>
                 <Button variant="primary">Read more </Button>
             </Card.Body>
@@ -26,7 +26,7 @@ function Section1() {
             <Card.Body className='cardBody'>
                 <Card.Title><h3>Cupcake</h3></Card.Title>
                 <Card.Text>
-                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit dolor sit amet...</p>
                 </Card.Text>
                 <Button variant="primary">Read more </Button>
             </Card.Body>
@@ -37,7 +37,7 @@ function Section1() {
             <Card.Body className='cardBody'>
                 <Card.Title><h3>Mango pie</h3></Card.Title>
                 <Card.Text>
-                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit dolor sit amet...</p>
                 </Card.Text>
                 <Button variant="primary">Read more </Button>
             </Card.Body>
@@ -48,7 +48,7 @@ function Section1() {
             <Card.Body className='cardBody'>
                 <Card.Title><h3>Sweet cream</h3></Card.Title>
                 <Card.Text >
-                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+                <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit dolor sit amet...</p>
                 </Card.Text>
                 <Button variant="primary">Read more </Button>
             </Card.Body>
